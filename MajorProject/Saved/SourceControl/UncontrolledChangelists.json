@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Level/Map1.umap",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Level/menu.umap",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/HP_Player.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/HP_GameInstance.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/HP_Gameplay.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/HP_MainMenu.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/HP_MainMenuController.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/HP_PlayerController.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Inputs/IA_Look.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Inputs/IMC_Charater.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Inputs/IA_Jump.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Inputs/IA_Move.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/UI/WB_Menu.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Level/_GENERATED/RakshitGupta/Box_B08A963B.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Inputs/IA_Flashlight.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Blueprints/Interface/BPI_Interact.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Inputs/IA_Interact.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Audio/BackGroundMusic.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Audio/GhostSound.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Audio/Death.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Audio/BackGroundMusic_Cue.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Audio/434976__lost_dream__horror-game-menu.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Audio/MainMenu.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Audio/MainMenu_Cue.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Blueprints/Actors/BP_Interaction.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Blueprints/Actors/BP_Doors.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Blueprints/Actors/BP_Door.uasset"
+			]
+		}
+	]
+}
