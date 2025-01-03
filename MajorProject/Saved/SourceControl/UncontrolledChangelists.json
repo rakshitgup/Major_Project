@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/Major_Project/MajorProject/Content/Blueprints/Actors/BP_Door.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/Major_Project/MajorProject/Content/Blueprints/Actors/BP_Interaction.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/Major_Project/MajorProject/Content/Blueprints/Material/DoorMat.uasset",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/Major_Project/MajorProject/Content/Level/Map1.umap",
+				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/Major_Project/MajorProject/Content/Blueprints/Actors/BP_FlickeringLight.uasset",
 				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Level/Map1.umap",
 				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/Level/menu.umap",
 				"C:/Users/Rakshit Gupta/Documents/Unreal Projects/SEMproject/Content/HP_Player.uasset",
