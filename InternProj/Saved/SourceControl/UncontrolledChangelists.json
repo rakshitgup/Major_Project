@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/Major_Project/InternProj/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Unreal Projects/Major_Project/InternProj/Content/Characters/Mannequins/Animations/Manny/Run_Back.uasset",
+				"D:/Unreal Projects/Major_Project/InternProj/Content/Characters/Mannequins/Animations/Manny/Run_Fwd.uasset",
+				"D:/Unreal Projects/Major_Project/InternProj/Content/Characters/Mannequins/Animations/Manny/Run_Left.uasset",
+				"D:/Unreal Projects/Major_Project/InternProj/Content/Characters/Mannequins/Animations/Manny/Run_LeftBack.uasset",
+				"D:/Unreal Projects/Major_Project/InternProj/Content/Characters/Mannequins/Animations/Manny/Run_LeftFwd.uasset",
+				"D:/Unreal Projects/Major_Project/InternProj/Content/Characters/Mannequins/Animations/Manny/Run_Right.uasset",
+				"D:/Unreal Projects/Major_Project/InternProj/Content/Characters/Mannequins/Animations/Manny/Run_RightBack.uasset",
+				"D:/Unreal Projects/Major_Project/InternProj/Content/Characters/Mannequins/Animations/Manny/Run_RightFwd.uasset",
+				"D:/Unreal Projects/Major_Project/InternProj/Content/Characters/Mannequins/Animations/Manny/Locomotion_BS.uasset",
+				"D:/Unreal Projects/Major_Project/InternProj/Content/Characters/Mannequins/Animations/Manny/Locomotion_AB.uasset",
+				"D:/Unreal Projects/Major_Project/InternProj/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
